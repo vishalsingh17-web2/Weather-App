@@ -1,16 +1,9 @@
 # weather
 
-A new Flutter project.
+A new Weather app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Get your api key at https://www.weatherapi.com/ and paste it in Constants.dart file.
+![image](https://user-images.githubusercontent.com/86218086/135800783-96a7dd83-5f52-4ca1-af8f-fbc3f1978397.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
